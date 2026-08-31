@@ -266,7 +266,7 @@ address.
     </div>
     <div class="row">
         <dt class="col-sm-2 col-md-2 py-2 px-3 bg-body-light text-body-secondary fw-bold"> Registration </dt>
-        <dd class="col py-2 px-3 mx-0 mb-0"> <a href="https://docs.google.com/forms/d/e/1FAIpQLSf51FmAss732WtriI9Nb6P4pEDRWzP2sENO23ZMOmLkmYMsLw/viewform"> Click Here </a></dd>
+        <dd class="col py-2 px-3 mx-0 mb-0"> <a href="https://docs.google.com/forms/d/e/1FAIpQLSf51FmAss732WtriI9Nb6P4pEDRWzP2sENO23ZMOmLkmYMsLw/viewform"> Click Here </a> Please register by September 18, 2026</dd>
     </div>
 
     <div class="row">
