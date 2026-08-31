@@ -184,8 +184,6 @@ Edit the general explanatory paragraph below if you want to change the pitch.
 This is a pilot workshop, testing out a lesson that is still under development. The lesson authors would appreciate any feedback you can give them about the lesson content and suggestions for how it could be further improved.
 {% endif %}
 
-<p><strong>Registration:</strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSf51FmAss732WtriI9Nb6P4pEDRWzP2sENO23ZMOmLkmYMsLw/viewform"> Click Here </a></p>
-
 {% comment %}
 LOCATION
 
@@ -266,6 +264,11 @@ address.
             {% endif %}    
         </dd>
     </div>
+    <div class="row">
+        <dt class="col-sm-2 col-md-2 py-2 px-3 bg-body-light text-body-secondary fw-bold">Registration</strong> </dt>
+        <dd class="col py-2 px-3 mx-0 mb-0">> <a href="https://docs.google.com/forms/d/e/1FAIpQLSf51FmAss732WtriI9Nb6P4pEDRWzP2sENO23ZMOmLkmYMsLw/viewform"> Click Here </a></p> </dd>
+    </div
+
     <div class="row">
         <dt class="col-sm-2 col-md-2 py-2 px-3 bg-body-light text-body-secondary fw-bold">Requirements</dt>
         <dd class="col py-2 px-3 mx-0 mb-0">
